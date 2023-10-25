@@ -6,7 +6,7 @@ class Node:
 class LL:
     def __init__(self):
         self.head=None
-
+ 
     def printll(self):
         if self.head is None:
             print("ll is mepty")
